@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lidashuai12
 - 👀 I’m interested in delicious food
-- 🌱 I’m currently learning java ,c++,c and python
+- 🌱 I’m currently learning java and python
 - 💞️ I’m now studying in CQUPT
 - 📫 How to reach me  498180753@qq.com
 
